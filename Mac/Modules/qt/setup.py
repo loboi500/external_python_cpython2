@@ -1,13 +1,3 @@
-# This is a temporary setup script to allow distribution of
-# MacPython 2.4 modules for MacPython 2.3.
-
-from distutils.core import Extension, setup
-
-setup(name="QuickTime", version="0.2",
-        ext_modules=[
-                Extension('QuickTime._Qt', ['_Qtmodule.c'],
-                extra_link_args=['-framework', 'Carbon', '-framework', 'QuickTime'])
-        ],
-        py_modules=['QuickTime.Qt', 'QuickTime.QuickTime'],
-        package_dir={'QuickTime':'../../../Lib/plat-mac/Carbon'}
-        )
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f9aad877366db7a5535b181c54c9db5e04ebd56c551406e3bee692206643d72
+size 501

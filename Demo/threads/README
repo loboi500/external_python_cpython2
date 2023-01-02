@@ -1,11 +1,3 @@
-This directory contains some demonstrations of the thread module.
-
-These are mostly "proof of concept" type applications:
-
-Generator.py	Generator class implemented with threads.
-sync.py		Condition variables primitives by Tim Peters.
-telnet.py	Version of ../sockets/telnet.py using threads.
-
-Coroutine.py	Coroutines using threads, by Tim Peters (22 May 94)
-fcmp.py		Example of above, by Tim
-squasher.py	Another example of above, also by Tim
+version https://git-lfs.github.com/spec/v1
+oid sha256:40c4f9114c5b1344ab2a4f7f1a1e46d3e925d5364e2de8ecec5b4e32546d18e4
+size 440

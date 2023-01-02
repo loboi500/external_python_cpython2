@@ -1,9 +1,3 @@
-BGEN -- Automatic Generation of Extension Modules
-=================================================
-
-This directory contains BGEN -- a package that helps in generating
-complete source code for Python extension module.  For examples of its
-use, see the Mac Python source distribution (available separately
-from the Python ftp archives).  Note that BGEN is not Mac specific!
-
-WARNING: bgen has been removed in 3.0.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50452abb31145fd9cd6f845fbe9c1b41bb0b1bfeb07a27230de23638f4f3f367
+size 413

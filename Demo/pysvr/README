@@ -1,9 +1,3 @@
-This is an example of a multi-threaded C application embedding a
-Python interpreter.
-
-The particular application is a multi-threaded telnet-like server that
-provides you with a Python prompt (instead of a shell prompt).
-
-The file pysvr.py is a prototype in Python.
-
-THIS APPLICATION IS NOT SECURE -- ONLY USE IT FOR TESTING!
+version https://git-lfs.github.com/spec/v1
+oid sha256:84872a1b992e6833ef3fc555eff6c465f7211cca8a22ff1f42dd98cbe59b288c
+size 325

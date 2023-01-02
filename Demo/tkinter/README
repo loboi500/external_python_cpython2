@@ -1,11 +1,3 @@
-Several collections of example code for Tkinter.
-
-See the toplevel README for an explanation of the difference between
-Tkinter and _tkinter, how to enable the Python Tk interface, and where
-to get Matt Conway's lifesaver document.
-
-Subdirectories:
-
-guido		my original example set (fairly random collection)
-matt		Matt Conway's examples, to go with his lifesaver document
-ttk         Examples using the ttk module
+version https://git-lfs.github.com/spec/v1
+oid sha256:55f09e279ecd9cfde508d7230480b7c755b5cca1888261506d497b3d8c0fe49d
+size 413

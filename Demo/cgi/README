@@ -1,11 +1,3 @@
-CGI Examples
-------------
-
-Here are some example CGI programs.  For a larger example, see
-../../Tools/faqwiz/.
-
-cgi0.sh -- A shell script to test your server is configured for CGI
-cgi1.py -- A Python script to test your server is configured for CGI
-cgi2.py -- A Python script showing how to parse a form
-cgi3.py -- A Python script for driving an arbitrary CGI application
-wiki.py -- Sample CGI application: a minimal Wiki implementation
+version https://git-lfs.github.com/spec/v1
+oid sha256:926e3e4f71fe25017cb3c2ece072cf9a520ba42825d1da1a45806a77d0a65a03
+size 437
